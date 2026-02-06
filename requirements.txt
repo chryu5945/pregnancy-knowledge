@@ -1,0 +1,8 @@
+yt-dlp
+youtube-transcript-api
+streamlit
+pandas
+chromadb
+openai
+python-dotenv
+tiktoken
